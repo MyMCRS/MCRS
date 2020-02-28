@@ -1,0 +1,281 @@
+ @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+    // max-width: 1440px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  .header__text{
+    max-width: 500px;
+    margin: 5rem 2rem;
+    .header__text h1{
+      font-size: 3rem;
+      opacity: 0.7;
+      margin-bottom: 2Rem;
+    }
+    .header__text p{
+      font-weight: bold;
+      opacity: 0.5;
+      margin-bottom: 5Rem;
+    }
+    .header__text a{
+      background-image: linear-gradient(to right, #5555a5, #5165b2, #3ea3c5, #3da6c6);
+    }
+  }
+  .header__video{
+    height: 600px;
+    width: 800px;
+      .header__video video{
+        width:789px; 
+        height:617px;
+      }
+  }
+  @media only screen and (max-width: 760px) {
+    .header__video video {
+      height: 600px;
+      width: 720px; } }
+  @media only screen and (max-width: 375px) {
+    .header__video video {
+      height: 370px;
+      width: 345px; }
+}
+}
+
+
+// Main1
+
+#réalisons{
+  
+   text-align: center;
+   margin-top: -59px;
+   height: 145vh;
+}
+
+.réalisons-infos{
+      text-align: center;
+     font-size: 18px;
+     h1{
+        padding-top: 100px;
+     }
+}   
+.chaque{
+    text-align: center;
+    font-size: 9px;
+    color: rgb(127,152,184);
+   
+}
+.container{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin-top: 40px;
+    color: rgb(179, 183, 185);
+   }
+    h4{
+        color: rgb(58, 57, 57);
+    }
+   
+  #réalisons{
+     
+background-color: rgb(238, 240, 241);
+  }
+    
+.bara{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.bara{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: #878888;
+  
+  
+}
+h3{
+    margin-top: 44px;
+ 
+  }
+
+  .bara--A{
+
+    strong{
+
+      span{
+        color: rgb(127,152,184);
+      }
+    }
+
+  }
+
+  .spn {
+
+    color: rgb(127,152,184);
+  }
+
+  @media screen and (max-width: 640px) {
+
+    .container{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        flex-wrap: wrap;
+     }
+     #réalisons{
+  
+      text-align: center;
+      height: 100%;
+   }
+
+     
+
+    }
+
+// Main2
+
+#team{
+        background-color:#e8eaef;
+   
+        .team_bigTitle{
+            text-align: center;
+            padding-top: 20px;
+            color: #696464;
+            font-size: 30px;
+         
+        }
+
+        .members{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+}
+
+// Footer
+
+%btn {
+    z-index: 99;
+    border-radius: 10px;
+    width: 256px;
+    height: 64px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #5cdce6;
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    &:hover {
+      background-color: white;
+      color: black;
+    }
+}
+  
+  
+#footer {
+      color: white;
+      z-index: auto;
+      background: url(../img/footer-image.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 98.9vw;
+      height: auto;
+      margin-top: -6px;
+  
+    .head {
+      text-align: center;
+      z-index: 2;
+      h1 {
+        padding-top: 80px;
+        font-size: 55px;
+      }
+      h5 {
+        font-size: 24px;
+      }
+      #para {
+        margin-top: 50px;
+        font-size: 20px;
+      }
+    }
+    #boutton {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 60px;
+          button {
+            @extend %btn;
+          }
+          #btn1 {
+            background-color: white;
+            color: black;
+  
+            &:hover {
+  
+              background-color: #5cdce6;
+              color: white;
+            }
+      }
+            p {
+              display: flex;
+              justify-content: space-around;
+              margin: 0 auto;
+            }
+            #email {
+                position: relative;
+                right: 7%;
+            }
+              
+          }
+  }
+  #fin {
+    display: flex;
+    justify-content: space-between;
+    margin: 130px auto 0 auto;
+    width: 90%;
+  
+    p {
+      text-align: left;
+      left: 0;
+    }
+    #pages {
+      display: inline-flex;
+      align-items: flex-end;
+      .con {
+        margin: 10px 5px 0 5px;
+        svg {
+          color: white;
+          background-color: white;
+        }
+      }
+    }
+  }
+  .CR {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: 40px auto 0 auto;
+    justify-content: space-between;
+    .left {
+      a {
+        text-decoration: underline;
+        color: white;
+        &:first-child {
+          margin-right: 20px;
+        }
+      }
+    }
+}
+
+@import "contactsass";
