@@ -1,0 +1,226 @@
+Package: com.mcrs.prysm
+Name: Prysm MCRS
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: com.laughingquoll.prefixui, mobilesubstrate, com.opa334.ccsupport
+Filename: debs/prysm.deb
+Size: 172032
+MD5sum: 8950f27bafc348068b845899022461af
+SHA1: 2875509a6639dbf5449ec3bc8d59cd2c348bbd9a
+SHA256: bdfa448cf63b07510b3e2064558b8705dc17d86bb3bdba8c609ba35f583d9846
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.prysm
+
+Package: com.mcrs.maple2
+Name: Maple 2 MCRS
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.laughingquoll.prefixui, me.nepeta.libcolorpicker, net.limneos.libbulletin
+Filename: debs/maple2.deb
+Size: 31137792
+MD5sum: e8698c98903f24836da7400f92f5be58
+SHA1: 596e4a9bfc0882ff42e678d37073f8cec1c91ef2
+SHA256: 3a9c56a872ae9833fdbe2fa406a945345a8f32ed73ddf35717b00fa82224101a
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.maple2
+
+Package: com.mcrs.siliquapro
+Name: Siliqua Pro MCRS
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/siliquapro.deb
+Size: 98304
+MD5sum: e84298a15d41a4d77dbc04e40a94964d
+SHA1: 1bef6c58c2744d5c51f0877807898c739fe5963c
+SHA256: 62b40aa6bd3380a5550c964bf8239a778ab022dd9e888b9a845b85fb7def73aa
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.siliquapro
+
+Package: com.mcrs.banana
+Name: Banana MCRS
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/banana.deb
+Size: 8192
+MD5sum: 0419f86d9391e36076d9c807fc52cbfc
+SHA1: f9097b16d6084c4c93c7079db3a9f030fd3a8799
+SHA256: 3c09c9c832b795fd1a6b40e156112bde8dc5c348f6cf5ef9e297b5b7967934e2
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.banana
+
+Package: com.mcrs.noctis12
+Name: Noctis 12 MCRS
+Version: 1.8.9.5
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: debs/noctis12.deb
+Size: 159744
+MD5sum: 99b18638741b399fa1d794aa43d6cf34
+SHA1: 1735f1366e71307e67882425487ad4dc67c76024
+SHA256: 19f32aa98b221b06d73f1d44e360b4da4630c99ac69769a3da400da15ad55fef
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.noctis12
+
+Package: com.mcrs.noctisneo
+Name: Noctis Neo MCRS
+Version: 1.2.3
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Filename: debs/noctisneo.deb
+Size: 73728
+MD5sum: d9224cf1d97d1f6ce439b5b4a72e9fa3
+SHA1: 3b5ff69874c4982b23067457a48913d5458655ea
+SHA256: a5724ea5f0eac5d2551ea8e4fccc8580abeab2c1ff47c62cec901424e7e9cd41
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.noctisneo
+
+Package: com.mcrs.smartrotate
+Name: SmartRotate MCRS
+Version: 1.3.5
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Filename: debs/smartrotate.deb
+Size: 45056
+MD5sum: 4a8d92aed4ea6e9ffb30071cd5034202
+SHA1: 06d28f52506e8179e2a666492d87ec5e383e6eab
+SHA256: 2b392ec8d2b9d671e84b2e7eb87d7f0d3c15b046f9ea66e63967c0cecd53d9b3
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.smartrotate
+
+Package: com.mcrs.tritium
+Name: Tritium MCRS
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.laughingquoll.prefixui, preferenceloader
+Filename: debs/tritium.deb
+Size: 73728
+MD5sum: 8ad41a00e4fdfc74fc2b6b30125bb1bb
+SHA1: 0cf06be31476288f98fa7d17d4813fc22582ab5b
+SHA256: 2555474fe1853ebe8af7b5c0723e6b6250937daf9edd78acb2044d67d7711944
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.tritium
+
+Package: com.mcrs.watermelon
+Name: Watermelon MCRS
+Version: 1.3.9
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, preferenceloader
+Filename: debs/watermelon.deb
+Size: 471040
+MD5sum: 2a75212f249d47c2bf67d0b8f931bb25
+SHA1: f75911a040ebb431045fc75a99d26347f9adc8eb
+SHA256: 9c9195a902556c541365c959dcd91dc8156f8a54168e75fdab01493a71d440b3
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.watermelon
+
+Package: com.mcrs.badgebar
+Name: BadgeBar MCRS
+Version: 1.0.7.1
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: com.spark.libpackageinfo, sedfix
+Filename: debs/badgebar.deb
+Size: 372736
+MD5sum: c0c64325b1c74116fe0d7ce816e9fd01
+SHA1: f400cdacc07a53526d24f191b8dd202eb918b0b6
+SHA256: a9ef450fef6ad6ab869d31d7f24e8b991c9be908684a0f9d5460b268455e3aae
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.badgebar
+
+Package: com.mcrs.modulus
+Name: Modulus MCRS
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.opa344.ccsupport
+Filename: debs/modulus.deb
+Size: 114688
+MD5sum: ff6efba8f60928ea9e63498109eaa4f3
+SHA1: 6a082048f43ec4e056d1018c6d4269edff81a5df
+SHA256: 7c2296d3d57ce38dbbe524c4896c156174597d604b216e973ee6a93debf5273f
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.modulus
+
+Package: com.mcrs.noctisxi
+Name: NoctisXI MCRS
+Version: 1.7.6
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctis12
+Filename: debs/noctisxi.deb
+Size: 155648
+MD5sum: 8fd2827ed63357eb059470f7fd4270df
+SHA1: 8ba55bfe32e7f350dfef811e040ea7eac7802e91
+SHA256: 27b7997f969ae2920af91c2c57ae1971b05475a9749241e254f9747705db2e15
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.noctisxi
+
+Package: com.mcrs.proximitus
+Name: Proximitus MCRS
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.opa334.ccsupport, net.limneos.libbulletin
+Filename: debs/proximitus.deb
+Size: 45056
+MD5sum: 1e536cbb5fb4601c5c3665090594bb16
+SHA1: f41a8d87ee0ecb7b66a31ef83dc0e44c33e9256c
+SHA256: b610bd0c36a0fba16f1e796462a282855bf18eb8438ab045108824e03b4bb017
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.proximitus
+
+Package: com.mcrs.semperon
+Name: Semperon MCRS
+Version: 1.8.1
+Architecture: iphoneos-arm
+Description: Local Deb will be installed
+Maintainer: MCRS <mycydiarootstore@gmail.com>
+Author: MCRS <mycydiarootstore@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.laughingquoll.prefixui, preferenceloader
+Filename: debs/semperon.deb
+Size: 57344
+MD5sum: 9e719dd95ec43907c7d6c8a13d871889
+SHA1: 50133131bda2a0974a2da1ab4a894fdedb55c403
+SHA256: c330b1bab2ca295b87292efca4c7f494d0b8f39addf14b28622f2e8051e7ef88
+Depiction: https://mymcrs.github.io/mcrs/depictions/?p=com.mcrs.semperon
